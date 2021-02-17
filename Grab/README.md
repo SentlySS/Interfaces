@@ -13,17 +13,21 @@
 ## Mobile first
 A aplicação foi criada primeiramente para android e depois foi adaptada para pcs e tablets. Abaixo uma imagem do login para celular
 
-![](./img/grab-mobile.jpg)
+<p align="center>
+ <img src="img/grab-mobile.jpg" alt="grab">
+</p>
 
 ## Visual para Tablets
 
-![](./img/grab-tablet.jpg)
+<p align="center>
+ <img src="img/grab-tablet.jpg" alt="grab">
+</p>
 
 # #Visual para desktops
-
-![](./img/grab.jpg)
-
-### Fonte
+<p align="center">
+ <img src="img/grab.jpg" alt="grab">
+</p>
+### Fontes
 [Roboto](https://fonts.google.com/specimen/Roboto)
 
 ## Icones
