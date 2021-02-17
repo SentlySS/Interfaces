@@ -13,13 +13,12 @@
 ## Mobile first
 A aplicação foi criada primeiramente para android e depois foi adaptada para pcs e tablets. Abaixo uma imagem do login para celular
 
-<p align="center>
+<p align="center">
  <img src="img/grab-mobile.jpg" alt="grab">
 </p>
 
 ## Visual para Tablets
-
-<p align="center>
+<p align="center">
  <img src="img/grab-tablet.jpg" alt="grab">
 </p>
 
