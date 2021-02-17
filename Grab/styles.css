@@ -16,8 +16,23 @@ input{
   border-radius: 20px;
   margin: 18px 0 0 0;
   border: 1px solid #FFFFFF;
-  background: transparent;
-  padding: 20px;
+  background-color: transparent;
+  padding: 20px 40px;
+  color: white;
+}
+
+.text{
+  background-image: url('./assets/subtract.svg');
+  background-repeat: no-repeat;
+  background-position: left;
+  background-position-x: 10px;
+}
+
+.password{
+  background-image: url('./assets/lock.svg');
+  background-repeat: no-repeat;
+  background-position: left;
+  background-position-x: 10px;
 }
 
 button{
